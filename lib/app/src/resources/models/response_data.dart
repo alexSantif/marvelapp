@@ -1,4 +1,4 @@
-import 'package:marvelapp/models/character.dart';
+import 'package:marvelapp/app/src/resources/models/character.dart';
 
 class ResponseData {
   int limit;

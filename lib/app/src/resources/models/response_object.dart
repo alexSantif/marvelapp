@@ -1,4 +1,4 @@
-import 'package:marvelapp/models/response_data.dart';
+import 'package:marvelapp/app/src/resources/models/response_data.dart';
 
 class ResponseFull {
   int code;

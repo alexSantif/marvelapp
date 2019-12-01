@@ -1,7 +1,7 @@
-import 'package:marvelapp/home/home_bloc.dart';
+import 'package:marvelapp/app/src/bloc/home_bloc.dart';
 import 'package:bloc_pattern/bloc_pattern.dart';
 import 'package:flutter/material.dart';
-import 'package:marvelapp/home/home_widget.dart';
+import 'package:marvelapp/app/src/ui/home/home_widget.dart';
 
 class HomeModule extends ModuleWidget {
   @override

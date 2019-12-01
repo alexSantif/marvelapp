@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:marvelapp/home/home_module.dart';
+import 'package:marvelapp/app/src/resources/modules/home_module.dart';
 
 class AppWidget extends StatelessWidget {
   @override

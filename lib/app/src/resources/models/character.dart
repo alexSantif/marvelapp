@@ -1,4 +1,4 @@
-import 'package:marvelapp/models/thumbnail.dart';
+import 'package:marvelapp/app/src/resources/models/thumbnail.dart';
 
 class Character {
   int id;
